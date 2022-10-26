@@ -7,7 +7,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: gray;
+  background: linear-gradient(to right, rgb(61, 129, 245), rgb(108, 108, 240), rgb(43, 42, 42));
   }
 
   .logo {
@@ -72,4 +72,5 @@ body {
         color: white;
         padding: 0 25px;
         height: fit-content;
+        text-align: center;
       }
